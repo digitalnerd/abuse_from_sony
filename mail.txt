@@ -1,0 +1,29 @@
+Id: 262
+Conversation-Id: -262
+Folder: /Inbox
+Subject: IP address(es) were blacklisted from the PlayStation Network [1212212]
+From: Левин Константин <levin_k@at-home.ru>
+To: sony acc <sony_acc@at-home.ru>
+Date: Mon, 04 Sep 2017 19:31:58 +0400 (MSK)
+Size: 3.52 KB
+
+
+The following table of IP addresses, dates and times should help you correlate the origin of the abusive activity.  The time stamps are approximate from our logs.  The actual timing of the events depend on the signature matched.  It is very likely to have occurred both before, during and following the times listed.
+
+       Approximate Time Range (UTC),      IP Address, Reason
+2017-08-30 02:22 ~ 2017-08-30 02:52 (UTC),    213.21.33.18, Account Takeover Attempts
+2017-08-30 12:41 ~ 2017-08-30 13:11 (UTC),    213.21.46.97, Account Takeover Attempts
+2017-08-30 16:24 ~ 2017-08-30 16:54 (UTC),    213.21.34.25, Account Takeover Attempts
+2017-08-31 03:41 ~ 2017-08-31 04:11 (UTC),   213.21.36.149, Account Takeover Attempts
+2017-08-31 08:09 ~ 2017-08-31 08:39 (UTC),    213.21.46.31, Account Takeover Attempts
+2017-08-31 13:41 ~ 2017-08-31 14:11 (UTC),    213.21.42.39, Account Takeover Attempts
+
+It is most likely the attack traffic is directed at one of the following endpoints:
+
+С уважением,
+Константин Левин
+Отдел администрирования ресурсов \ Системный администратор
+Мобильный телефон: 8-981-945-45-90
+Внутренний телефон: 773
+
+
